@@ -1,0 +1,22 @@
+{
+  "name": "uwcoffeencode-website",
+  "version": "1.0.0",
+  "description": "UW Coffee 'N Code Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UWCoffeeNCode/website.git"
+  },
+  "author": "Ahrar Monsur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UWCoffeeNCode/website/issues"
+  },
+  "homepage": "https://github.com/UWCoffeeNCode/website#readme",
+  "dependencies": {
+    "harp": "^0.26.0"
+  }
+}

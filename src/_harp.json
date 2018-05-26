@@ -1,0 +1,18 @@
+{
+    "globals": {
+        "headers": {
+            "index": {
+                "title": "Home"
+            },
+            "mission": {
+                "title": "Our Mission"
+            },
+            "team": {
+                "title": "The Team"
+            },
+            "contact": {
+                "title": "Contact Us"
+            }
+        }
+    }
+}
