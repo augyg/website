@@ -12,6 +12,9 @@
             },
             "contact": {
                 "title": "Contact Us"
+            },
+            "resources": {
+                "title": "Resources"
             }
         }
     }
