@@ -1,17 +1,17 @@
-@import "partials/nav"
+// Base styles
+@import "partials/base"
 
-body
-	font-family: "Helvetica"
-	padding: 50px 20px 0
-	background: #f4f4f7
-	color: #444
-	margin: 0
+// Layout styles
+@import "partials/layout"
 
-h1
-	font-size: 65px
-	line-height: 1.2em
-	border-bottom: #CCC solid 1px
-	padding: 20px 0
+// Component-specific styles
+@import "partials/components/heroBanner"
+@import "partials/components/nav"
+@import "partials/utilities/parallax"
 
-h3
-	font-weight: 300
+// Page-specific styles
+@import "partials/pages/home"
+
+
+.longThing
+	height: 1000px
