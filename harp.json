@@ -1,14 +1,14 @@
 {
     "globals": {
-        "headers": {
-            "index": {
-                "title": "Home"
-            },
+        "navItems": {
             "mission": {
                 "title": "Our Mission"
             },
             "team": {
-                "title": "The Team"
+                "title": "Our Team"
+            },
+            "gallery": {
+                "title": "Gallery"
             },
             "contact": {
                 "title": "Contact Us"
