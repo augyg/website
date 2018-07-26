@@ -1,15 +1,21 @@
 #index-banner.parallax-container.valign-wrapper
 	.section.no-pad-bot
 		.container
-			br
-			br
 			h1.header.center.black-text.text-lighten-2 We make projects happen!
-			//.row.center
-			//	h5.header.col.s12.light grab a cup and join us
+			.mission.row.center
+				.col.s12
+					p
+						| Empowering students of all backgrounds to explore and gain valuable skills in
+						| the world of coding.
+
 			.row.center
 				a#download-button.btn-large.waves-effect.waves-light.teal.lighten-1(href="http://materializecss.com/getting-started.html") Join Us
 	.parallax
 		img.responsive-img(src="/assets/images/coffee_laptop.jpg", alt="Unsplashed team photo")
+
+!= partial("components/_about")
+!= partial("components/team/_team")
+
 .container
 	.section
 		// Icon Section
@@ -58,36 +64,3 @@
 				h5.header.col.s12.light A modern responsive front-end framework based on Material Design
 	.parallax
 		img(src="background3.jpg", alt="Unsplashed background img 3")
-footer.page-footer.teal
-	.container
-		.row
-			.col.l6.s12
-				h5.white-text Company Bio
-				p.grey-text.text-lighten-4
-					| We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.
-			.col.l3.s12
-				h5.white-text Settings
-				ul
-					li
-						a.white-text(href="#!") Link 1
-					li
-						a.white-text(href="#!") Link 2
-					li
-						a.white-text(href="#!") Link 3
-					li
-						a.white-text(href="#!") Link 4
-			.col.l3.s12
-				h5.white-text Connect
-				ul
-					li
-						a.white-text(href="#!") Link 1
-					li
-						a.white-text(href="#!") Link 2
-					li
-						a.white-text(href="#!") Link 3
-					li
-						a.white-text(href="#!") Link 4
-	.footer-copyright
-		.container
-			| Made by
-			a.brown-text.text-lighten-3(href="http://materializecss.com") Materialize

@@ -1,0 +1,23 @@
+#team.spacer-for-nav
+.container
+	.row
+		.col.s12.center
+			h4 The Team
+	#team-carousel.carousel
+		for profile, memberID in public.components.team._data
+			.card.large.carousel-item
+				.card-image.waves-effect.waves-block.waves-light
+					img.activator(src='#{profile.img}')
+				.card-content
+					span.card-title.activator.grey-text.text-darken-4
+						| #{profile.name}
+						a.right.btn-floating.btn-large.waves-effect.waves-light
+							i.material-icons chat
+					p.activator
+						| #{profile.role}
+				.card-reveal
+					span.card-title.grey-text.text-darken-4
+						i.material-icons.right close
+					for paragraph, line in profile.blurb
+						p
+							| #{paragraph}

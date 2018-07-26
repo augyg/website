@@ -1,20 +1,20 @@
 {
     "globals": {
         "navItems": {
-            "mission": {
-                "title": "Our Mission"
+            "about": {
+                "title": "About CNC"
             },
             "team": {
-                "title": "Our Team"
+                "title": "Team"
             },
             "gallery": {
                 "title": "Gallery"
             },
-            "contact": {
-                "title": "Contact Us"
-            },
             "resources": {
                 "title": "Resources"
+            },
+            "contact": {
+                "title": "Contact Us"
             }
         }
     }

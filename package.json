@@ -18,5 +18,6 @@
   "homepage": "https://github.com/UWCoffeeNCode/website#readme",
   "dependencies": {
     "harp": "^0.26.0"
-  }
+  },
+  "devDependencies": {}
 }

@@ -1,0 +1,82 @@
+{
+    "ahrar": {
+        "name": "Ahrar Monsur",
+        "role": "Co-founder",
+        "img": "assets/images/uwcnc_s18_ahrar_monsur.jpg",
+        "blurb": {
+            "1": "Learning how to program has changed my life in some profound ways: it has opened doors professionally and given me confidence to identify and take on opportunities to improve the world around me. Coffee 'N Code is where I try to help others create the same experience for themselves. CNC is, first and foremost, a place of patient and judgement-free learning, where I share industry knowledge and how to self-learn programming. Creating communities is my passion and I want to help my superbly talented team to make CNC a community of motivated learners with a shared goal of levelling up in life.",
+            "2": "Come find me and say hi! I am looking forward to helping you get started on your first side-project!"
+        }
+    },
+    "christina": {
+        "name": "Christina Lee",
+        "role": "Co-founder",
+        "img": "assets/images/uwcnc_s18_christina_lee.jpg",
+        "blurb": {
+            "1": "I’m the co-president and co-founder of Coffee ‘N Code but by no means does that mean I am a pro-coder. And though that might make no sense, I think that’s the beauty of Coffee ‘N Code. My interest in starting this club sparked when I attended a Coffee ‘N Code meetup hosted in Toronto. It was the first tech-oriented event that helped break down for me the barrier to explore my simple curiosity for programming as someone who had no real past  experience. Since then, my goal was and continues to be to bring this community of open exploration to the UW campus.",
+            "2": "One focus for next term will be to create more valuable opportunities for learning by inviting a greater network of industry experts for our student members to gain professional insights!"
+        }
+    },
+    "michael": {
+        "name": "Michael Leung",
+        "role": "VP Education",
+        "img": "assets/images/uwcnc_s18_michael_leung.jpg",
+        "blurb": {
+            "1": ""
+        }
+    },
+    "robert": {
+        "name": "Robert Graham-Hu",
+        "role": "Hardware Project Lead",
+        "img": "assets/images/uwcnc_s18_robert_graham_hu.jpg",
+        "blurb": {
+            "1": "I am a second year System Design Engineering student, and the Coffee 'N Code hardware project lead. I am very passionate about teaching and helping other people jump-start their journey in code! Coffee 'N Code has been a great way for me to teach, have fun and meet awesome new people.",
+            "2": "I am looking forward to coding awesome games in the fall at the next UWaterloo Game Jam!"
+        }
+    },
+    "victor": {
+        "name": "Victor Reyes",
+        "role": "Mentor",
+        "img": "assets/images/uwcnc_s18_victor_reyes.jpg",
+        "blurb": {
+            "1": "As a member of the education team, Coffee ‘N Code has allowed me to work on my teaching and planning skills. I was very excited to lead the machine learning facial recognition project this term, and derived a lot of joy from seeing people show up every week and try out the lessons I had set out for them. My hope is to see my group members use their new skills to build new and interesting projects!",
+            "2": "As for myself, I’m looking forward to trying a couple of different projects, primarily in robotics, reinforcement learning and internet of things."
+        }
+    },
+    "shawn": {
+        "name": "Shawn Sui",
+        "role": "VP Operations",
+        "img": "assets/images/uwcnc_s18_shawn_sui.jpg",
+        "blurb": {
+            "1": "Being newly introduced to the tech scene, Coffee ‘N Code was the perfect mix of individuals always open to help you out. It was able to help me find a small community of people passionate and hardworking in what they do and always willing to learn more. It is a great environment that let me grow by learning more about the industry and the different technologies.",
+            "2": "I am looking forward to continue making Coffee ‘N Code an inviting and enriching community."
+        }
+    },
+    "frency": {
+        "name": "Frency Mendoza",
+        "role": "Finance Director",
+        "img": "assets/images/uwcnc_s18_frency_mendoza.jpg",
+        "blurb": {
+            "1": "I believe that Coffee ‘N Code has one of the best club structures with the most elite executive members. Each individual is kind, patient, passionate, capable, reliable and efficient. I had the pleasure of witnessing their exuberant characters illuminate through each commitment and it strongly showed, motivating me to do the same. I was entrusted with bringing my previous experiences and set of skills to improve our club’s financial processes and manage their accountability.",
+            "2": "I look forward to seeing Coffee ‘N Code develop as a community so that one day, they can take over the world ever so bean-ly."
+        }
+    },
+    "monica": {
+        "name": "Monica Lee",
+        "role": "Creative Director",
+        "img": "assets/images/uwcnc_s18_monica_lee.jpg",
+        "blurb": {
+            "1": "Hello, my name is Monica Lee, and I am the Creative Director for Coffee ‘N Code. What really attracted me to Coffee ‘N Code a sense of community. Today, the world runs on innovation and technology. And who is behind all that? Unique people like you and me. Technology needs diversity and inclusivity, and I think Coffee ‘N Code does just that. My role as a Creative Director is to reach out to people through creativity and art in social media. I like to explore different themes and designs to make coding seem more friendly and approachable to people.",
+            "2": "In the grand scheme of things, I really just want to make the world a beautiful place where everyone feels like they’re at home."
+        }
+    },
+    "grace": {
+        "name": "Grace Hernandez",
+        "role": "Co-founder",
+        "img": "assets/images/uwcnc_s18_grace_hernandez.jpg",
+        "blurb": {
+            "1": "I’m not a developer, and I honestly don’t ever see myself becoming one. My experience with coding is writing a hello world and doing a bit HTML and CSS to make websites look pretty. For me Coffee ‘N Code is a space for me to explore not just coding but the world of technology. It’s a safe space for me to ask dumb questions to get a better understanding of tech and become “tech literate”. As a result Coffee ‘N Code has helped me land a job in tech as a product manager for Loblaw Digital.",
+            "2": "I look forward to all the opportunities that Coffee ‘N Code will bring to our community of students, and of course the countless cups of espresso to come."
+        }
+    }
+}
