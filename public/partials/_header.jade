@@ -1,14 +1,11 @@
-nav.white(role="navigation")
-	.nav-wrapper.container
-		a#logo-container.brand-logo(href="#")
-			img(src="/assets/logo/horizontal/cnc_logo_black_horizontal.png")
-		ul.right.hide-on-med-and-down
-			each item, link in navItems
-				li
-					a(href="#") #{item.title}
-		ul#nav-mobile.sidenav
-			each item, link in navItems
-				li
-					a(href="#") #{item.title}
-		a.sidenav-trigger(href="#", data-target="nav-mobile")
-			i.material-icons menu
+.navbar-fixed
+	nav.white(role="navigation")
+		.nav-wrapper.container
+			a#logo-container.brand-logo(href="#")
+				img(src="/assets/logo/horizontal/cnc_logo_black_horizontal.png")
+			ul.right.hide-on-med-and-down
+				!= partial("_navItems")
+			ul#nav-mobile.sidenav
+				!= partial("_navItems")
+			a.sidenav-trigger(href="#", data-target="nav-mobile")
+				i.material-icons menu

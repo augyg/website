@@ -2,8 +2,6 @@
 	$(function(){
 
 		$(".sidenav").sidenav();
-		console.log($(".sidenav"));
-
 		$(".parallax").parallax();
 
 	}); // end of document ready
