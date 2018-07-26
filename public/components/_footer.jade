@@ -1,15 +1,17 @@
-footer.page-footer.teal
+footer.page-footer.brown
 	.container
 		.row
 			#brand-logo.col.s12.m6
 				a(href="#")
 					img(src="/assets/logo/horizontal/cnc_logo_white_horizontal.png")
 			#social-icons.col.s12.m6.valign-wrapper
-				a.social-icon(href="mailto:uwcoffeencode@gmail.com")
+				a.social-icon(href="#{urls.email}")
 					i.material-icons.white-text.email email
-				a.social-icon(href="https://www.facebook.com/uwcoffeencode/" target="_blank")
+				a.social-icon(href="#{urls.github}" target="_blank")
+					img(src="/assets/icons/github_logo.png")
+				a.social-icon(href="#{urls.facebook}" target="_blank")
 					img(src="/assets/icons/facebook_logo.png")
-				a.social-icon(href="https://twitter.com/uwcoffeencode" target="_blank")
+				a.social-icon(href="#{urls.twitter}" target="_blank")
 					img(src="/assets/icons/twitter_logo.png")
 	.footer-copyright
 		.container

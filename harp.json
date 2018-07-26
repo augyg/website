@@ -2,20 +2,27 @@
     "globals": {
         "navItems": {
             "about": {
-                "title": "About CNC"
+                "title": "About CNC",
+                "link": "#about"
             },
             "team": {
-                "title": "Team"
-            },
-            "gallery": {
-                "title": "Gallery"
+                "title": "Team",
+                "link": "#team"
             },
             "resources": {
-                "title": "Resources"
+                "title": "Resources",
+                "link": "#resources"
             },
             "contact": {
-                "title": "Contact Us"
+                "title": "Contact Us",
+                "link": "mailto:uwcoffeencode@gmail.com"
             }
+        },
+        "urls": {
+            "facebook": "https://www.facebook.com/pg/UWCoffeeNCode",
+            "twitter": "https://twitter.com/uwcoffeencode",
+            "email": "mailto:uwcoffeencode@gmail.com",
+            "github": "https://github.com/UWCoffeeNCode/Lessons"
         }
     }
 }

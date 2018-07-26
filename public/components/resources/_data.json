@@ -1,0 +1,17 @@
+{
+    "projects": {
+        "title": "Coffee 'N Code Projects",
+        "url": "https://github.com/UWCoffeeNCode/Lessons",
+        "icon": "school"
+    },
+    "resources": {
+        "title": "Community-curated resources",
+        "url": "https://github.com/UWCoffeeNCode/resources",
+        "icon": "dashboard"
+    },
+    "infosheets": {
+        "title": "Infosheets",
+        "url": "https://github.com/UWCoffeeNCode/resources/wiki/Infosheets",
+        "icon": "assignment"
+    }
+}

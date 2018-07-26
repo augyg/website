@@ -1,0 +1,12 @@
+#resources.spacer-for-nav
+.container
+	.section
+		.row
+			.col.s12.center
+				h4 Resources
+			each resource in public.components.resources._data
+				a.resource(href="#{resource.url}" target="_blank")
+					.col.s12.m4
+						h1.center.brown-text
+							i.material-icons #{resource.icon}
+						h5.center #{resource.title}
