@@ -1,19 +1,6 @@
-#index-banner.parallax-container.valign-wrapper
-	.section.no-pad-bot
-		.container
-			h1.header.center.black-text.text-lighten-2 We make projects happen!
-			.mission.row.center
-				.col.s12
-					p
-						| Empowering students of all backgrounds to explore and gain valuable skills in
-						| the world of coding.
 
-			.row.center
-				a.btn-large.waves-effect.waves-light.brown.lighten-1(href="#{urls.facebook}" target="_blank")
-					| Join Us
-	.parallax
-		img.responsive-img(src="/assets/images/coffee_laptop.jpg", alt="Unsplashed team photo")
-
+//!= partial("components/_banner")
+!= partial("components/_hiringBanner")
 != partial("components/_about")
 != partial("components/team/_team")
 != partial("components/resources/_resources")

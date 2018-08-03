@@ -20,9 +20,11 @@
         },
         "urls": {
             "facebook": "https://www.facebook.com/pg/UWCoffeeNCode",
+            "facebookEvents": "https://www.facebook.com/pg/UWCoffeeNCode/events",
             "twitter": "https://twitter.com/uwcoffeencode",
             "email": "mailto:uwcoffeencode@gmail.com",
-            "github": "https://github.com/UWCoffeeNCode/Lessons"
+            "github": "https://github.com/UWCoffeeNCode/Lessons",
+            "execApp": "https://docs.google.com/forms/d/e/1FAIpQLSetuxknbuidr9w1PBFHqSjDvp6_3eDqN6vNOAMIU5wcqKwGGw/formResponse"
         }
     }
 }
